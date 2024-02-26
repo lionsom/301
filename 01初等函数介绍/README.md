@@ -141,7 +141,7 @@ $$
 
 # 函数
 
-## 一、函数基础概念
+## 一、函数及其表达式
 
 ![](images/043.png)![](images/044.png)
 
@@ -154,6 +154,38 @@ $$
 
 
 ## 二、函数定义域
+
+![](images/051.png)![](images/052.png)![](images/053.png)![](images/054.png)![](images/055.png)![](images/056.png)![](images/057.png)![](images/058.png)![](images/059.png)
+
+
+
+## 三、函数的四种性质
+
+![](images/060.png)![](images/061.png)![](images/062.png)![](images/063.png)![](images/064.png)![](images/065.png)![](images/066.png)![](images/067.png)![](images/068.png)
+
+
+
+# 分解因式
+
+## 一、十字相乘法分解因式
+
+![](images/069.png)![](images/070.png)![](images/071.png)![](images/072.png)![](images/073.png)![](images/074.png)
+
+
+
+# 不等式
+
+## 一、穿针引线法解不等式
+
+![](images/075.png)![](images/076.png)![](images/077.png)![](images/078.png)![](images/079.png)![](images/080.png)![](images/081.png)
+
+
+
+
+
+
+
+
 
 
 
